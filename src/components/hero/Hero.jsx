@@ -1,4 +1,4 @@
-import CardHero from "./cardHero";
+import CardHero from "./CardHero";
 import image from "../../assets/hello.png";
 import Image from "../image/Image";
 import Title from "../font/Title";
